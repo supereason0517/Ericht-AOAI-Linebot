@@ -41,7 +41,6 @@ def home():
         <h1>Welcome to the Flask Azure OpenAI Project!!</h1>
 
         <p>This API is designed to interact with the Line messaging platform using the OpenAI Chat Completion model.</p>
-        <img src="/static/image.png" alt="Project Logo" width="300">
 
         <h2>Usage:</h2>
         <ul>
